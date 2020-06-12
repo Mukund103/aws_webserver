@@ -1,9 +1,4 @@
-
-  
 <?php 
-
-print `sudo ifconfig`
-
-
+print `ifconfig`
 ?>
 
