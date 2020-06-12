@@ -1,5 +1,4 @@
 
-<h1>Welcome To AWS Web server <h1>
   
 <?php 
 
